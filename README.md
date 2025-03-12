@@ -18,8 +18,4 @@ A **Formação HTML Web Developer** ensina os fundamentos do desenvolvimento web
 ## ✍ O que foi abordado no desafio?  
 - Utilização das principais tags HTML: `<h1> até <h6>`, `<p>`, `<mark>`, `<ul>`, `<ol>`, `<blockquote>`, `<sup>`, `<sub>`, etc.  
 - Estruturação de um website simples sem CSS ou JavaScript.  
-- Criação de links internos para navegação entre seções.  
-
-## 📌 Próximos desafios  
-- [DIO-desafio-html-webdev2](#)  
-- [DIO-desafio-html-webdev3](#)  
+- Criação de links internos para navegação entre seções.
